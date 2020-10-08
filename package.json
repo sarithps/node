@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "sarith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-pino-logger": "^5.0.0",
+    "fastify": "^2.14.1",
+    "fastify-formbody": "^3.0.0",
+    "fastify-redis": "^4.0.3",
+    "fluent-schema": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^8.0.1",
+    "mongodb": "^3.5.9",
+    "morgan": "^1.10.0",
+    "pino": "^6.3.2",
+    "redis": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  }
+}
